@@ -12,7 +12,7 @@ select ?x where { ?x <职业> <导演>. ?x <国籍> <中华人民共和国>. ?x 
 The annotation based on the PKUBASE knowledge base, please click [here](https://pan.baidu.com/s/11vyV_1klxUCefP4ooxKeWA) to download, the extraction code is ```3grq```.
 
 # CCKS Evaluation
-From the 2018, we hold the CKBQA evaluation task in [CCKS] (http://www.ccks2019.cn/?page_id=62)(China Conference on Knowledge Graph and Semantic Computing).
+From the 2018, we hold the CKBQA evaluation task in [CCKS](http://www.ccks2019.cn/?page_id=62) (China Conference on Knowledge Graph and Semantic Computing).
 We update the dataset and release the latest version annually after the evaluation task ends.
 
 Here are the previous evaluation pages:
